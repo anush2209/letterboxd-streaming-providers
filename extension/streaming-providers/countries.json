@@ -48,5 +48,10 @@
     "justwatch_country_code": "ja_JP",
     "tmdb_country_code": "ja-JP",
     "name": "Japan"
+  },
+  "in": {
+    "justwatch_country_code": "en_IN",
+    "tmdb_country_code": "en-IN",
+    "name": "India"
   }
 }

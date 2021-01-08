@@ -7,12 +7,12 @@
   "netflix": {
     "provider_id": 8,
     "name": "Netflix",
-    "countries": ["de", "us", "mx", "ca", "uk", "at", "fr", "es", "ch", "jp"]
+    "countries": ["de", "us", "mx", "ca", "uk", "at", "fr", "es", "ch", "jp", "in"]
   },
   "amazon_prime": {
     "provider_id": 9,
     "name": "Amazon Prime Video",
-    "countries": ["de", "us", "uk", "at", "jp"]
+    "countries": ["de", "us", "uk", "at", "jp", "in"]
   },
   "mubi": {
     "provider_id": 11,
